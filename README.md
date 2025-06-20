@@ -66,4 +66,4 @@ Este projeto é de código aberto e está disponível sob a licença MIT.
 
 ---
 
-**Desenvolvido com ❤️ para praticar JavaScript** 
+**Desenvolvido com ❤️ para praticar JavaScript**
